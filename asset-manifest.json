@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/sis-certificates/static/js/main.849ad876.js",
+    "index.html": "/sis-certificates/index.html",
+    "main.849ad876.js.map": "/sis-certificates/static/js/main.849ad876.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.849ad876.js"
+  ]
+}
