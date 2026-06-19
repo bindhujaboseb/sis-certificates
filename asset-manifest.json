@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/sis-certificates/static/js/main.293ab53a.js",
+    "main.js": "/sis-certificates/static/js/main.391d7331.js",
     "index.html": "/sis-certificates/index.html",
-    "main.293ab53a.js.map": "/sis-certificates/static/js/main.293ab53a.js.map"
+    "main.391d7331.js.map": "/sis-certificates/static/js/main.391d7331.js.map"
   },
   "entrypoints": [
-    "static/js/main.293ab53a.js"
+    "static/js/main.391d7331.js"
   ]
 }
